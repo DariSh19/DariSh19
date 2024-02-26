@@ -1,7 +1,10 @@
-Привет 👋 Меня зовут Даша
-======================
+Привет 👋 Меня зовут *Даша* (✿◡‿◡)
+====================== 
 
 *   ✉️ Вы можете связаться со мной по адресу [sh.dasha999@yandex.ru](mailto:sh.dasha999@yandex.ru)
+*   🌍 Я живу в ОРЛЕ
+*   🧠 Учусь на _прикладной информатике_
+*   🦎Люблю играть в Genshin 
 <!--
 **DariSh19/DariSh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
