@@ -2,7 +2,6 @@
 ====================== 
 
 *   ✉️ Вы можете связаться со мной по адресу [shulogina13@gmail.com](mailto:shulogina13@gmail.com)
-*   🌍 Я живу в ОРЛЕ
 *   🧠 Учусь на _прикладной информатике_
 <!--
 **DariSh19/DariSh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
